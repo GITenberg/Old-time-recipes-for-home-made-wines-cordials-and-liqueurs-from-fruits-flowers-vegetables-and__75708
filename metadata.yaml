@@ -1,0 +1,36 @@
+_repo: Old-time-recipes-for-home-made-wines-cordials-and-liqueurs-from-fruits-flowers-vegetables-and__75708
+_version: 0.0.1
+contributor:
+  compiler:
+    agent_name: Wright, Helen S. (Helen Saunders)
+    alias: Wright, Helen Saunders Smith
+    birthdate: 1874
+    deathdate: 1957
+    gutenberg_agent_id: '53186'
+    url: http://www.gutenberg.org/2009/agents/53186
+description: ''
+gutenberg_issued: '2025-03-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75708'
+  lccn: '31016609'
+language: en
+pgterms:marc904: https://archive.org/details/oldtimerecipesfo00wrig/page/n5/mode/2up
+pgterms:marc905: 20240514080100wright
+pgterms:marc906: '1909'
+pgterms:marc907: US
+production_note: Tim Miller, Les Galloway and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aBoston :$bThe Page Company, $c1909, reprint 1922.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Wine and wine making'
+- !lcsh 'Beverages'
+- !lcc 'TX'
+- GITenberg
+title: Old-time recipes for home made wines, cordials and liqueurs from fruits, flowers,
+  vegetables, and shrubs
+url: http://www.gutenberg.org/ebooks/75708
