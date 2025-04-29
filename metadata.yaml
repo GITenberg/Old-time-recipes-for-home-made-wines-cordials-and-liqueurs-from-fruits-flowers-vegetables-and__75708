@@ -8,7 +8,12 @@ contributor:
     deathdate: 1957
     gutenberg_agent_id: '53186'
     url: http://www.gutenberg.org/2009/agents/53186
+covers:
+- cover_type: archival
+  image_path: 75708-h/images/cover.jpg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75708#Old-time-recipes-for-home-made-wines-cordials-and-liqueurs-from-fruits-flowers-vegetables-and_
 gutenberg_issued: '2025-03-25'
 gutenberg_type: Text
 identifiers:
